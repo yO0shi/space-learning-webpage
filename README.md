@@ -7,6 +7,7 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
 
 - HTML (2-month learning) &  CSS (2-month learning)
   - Project
+    - Portfolio (updated as each project's done)
     - [] button collection
     - [] ToDo lists (Only visual)
     - [] light/dark mode change
