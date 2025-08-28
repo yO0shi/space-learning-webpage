@@ -12,12 +12,17 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
   - Project
     - Portfolio (updated as each project's done)
     - [] button collection
-      - acc. ChatGTP, it's satisfactory if:
+      - acc. ChatGPT, it's satisfactory if:
         - It has at least theree types of button
         - It has hover effects on each button
         - It has animation when clicking the buttons
         - It has shadow or different shapes
     - [] ToDo lists (Only visual)
+      - acc ChatGPT, it's satisfactory if:
+        - It designs the containers of lists
+        - It changes the visual when checked
+        - It has hover effects when clicking delete botton
+        - It unifes the whole design 
     - [] light/dark mode change
     - [] Calculator AI
     - [] Modal Window
