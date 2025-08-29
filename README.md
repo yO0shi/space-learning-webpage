@@ -24,6 +24,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It has hover effects when clicking delete botton
         - It unifes the whole design 
     - [] light/dark mode change
+      - acc ChatGPT, it's satisfactory if:
+        - It designs the on/off button
+        - It has complete color scheme on light mode
+        - It has complete color scheme on dark mode
+        - It has a sample content (e.g. heading, indent, etc.)
     - [] Calculator AI
     - [] Modal Window
     - [] Humburger Menu
