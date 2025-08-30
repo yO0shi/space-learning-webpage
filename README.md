@@ -30,6 +30,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It has complete color scheme on dark mode
         - It has a sample content (e.g. heading, indent, etc.)
     - [] Calculator AI
+      - acc ChatGPT, it's satisfactory if:
+        - It aligns button by grid design
+        - It designs display layout
+        - It designs button's effect and push effects
+        - It looks like a real calculator
     - [] Modal Window
     - [] Humburger Menu
     - [] Memory Matching Card game
