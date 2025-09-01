@@ -36,6 +36,7 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It designs button's effect and push effects
         - It looks like a real calculator
     - [] Modal Window
+      - acc ChatGPT, it's satisfactory if:
     - [] Humburger Menu
     - [] Memory Matching Card game
     - [] Five star ratinng UI
