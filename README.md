@@ -37,6 +37,10 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It looks like a real calculator
     - [] Modal Window
       - acc ChatGPT, it's satisfactory if:
+        - It aligns the item center
+        - It has half-transparent overlay background
+        - It designs close button
+        - It feels like floating in the shadow
     - [] Humburger Menu
     - [] Memory Matching Card game
     - [] Five star ratinng UI
