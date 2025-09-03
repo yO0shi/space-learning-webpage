@@ -42,6 +42,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It designs close button
         - It feels like floating in the shadow
     - [] Humburger Menu
+      - acc Chat GPT, it's satisfactory if:
+        - It has three lines of designs
+        - It has the change of hover
+        - It designs the menu list
+        - It fit the designs for display of smartphone 
     - [] Memory Matching Card game
     - [] Five star ratinng UI
     - [] color palet
