@@ -48,6 +48,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It designs the menu list
         - It fit the designs for display of smartphone 
     - [] Memory Matching Card game
+      - acc. ChatGPT, it's satis factory if:
+        - It has surface design
+        - It has back side design
+        - It has at least four position of the cards
+        - It has shadow and edge effect of cards
     - [] Five star ratinng UI
     - [] color palet
     - [] Progress Bar
