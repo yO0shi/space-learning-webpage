@@ -60,6 +60,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It has designs when the star is filled
         - It has visual hover effect 
     - [] color palet
+      - acc ChatGPT, it's satisfacotry if:
+        - It displays at least six colors
+        - It displays color code
+        - It aligns by grid
+        - It expands effect when hovering
     - [] Progress Bar
 - Javascript (1-month learning)
 - Python(1-month learning)
