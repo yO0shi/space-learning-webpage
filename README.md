@@ -66,6 +66,11 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
         - It aligns by grid
         - It expands effect when hovering
     - [] Progress Bar
+      - acc. ChatGPT, it's satisfactory if:
+        - It designs background behind the bar
+        - It designs the progress part with color
+        - It displays percentage
+        - It has several color variation
 - Javascript (1-month learning)
 - Python(1-month learning)
 - React(just started learning)
