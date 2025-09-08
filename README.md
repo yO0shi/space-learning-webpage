@@ -74,6 +74,7 @@ repository is helpful for someone in the world, that is my pleasre. Thank you. 2
 - Javascript (1-month learning)
 - Python(1-month learning)
 - React(just started learning)
+- Swift (just started learning)
 
 ## Author 
 
